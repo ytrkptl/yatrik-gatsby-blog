@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Yatrik's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Yatrik Patel`,
+      summary: `A Web Developer who formerly taught math in schools.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Trying gatsby out in 2024 to see if and how it has changed, and maybe for a blog.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ytrkptl`,
     },
   },
   plugins: [
